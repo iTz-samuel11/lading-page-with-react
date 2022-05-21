@@ -1,7 +1,7 @@
 import React from "react";
+import { End } from "./End.jsx";
 
 //include images into your bundle
-import rigoImage from "../../img/rigo-baby.jpg";
 
 //create your first component
 const Home = () => {
@@ -170,14 +170,14 @@ const Cards = () => {
 	);
 };
 
-const End = () => {
-	return (
-		<nav className="navbar navbar-dark bg-dark my-3">
-			<div className="container-fluid justify-content-center">
-				<p className="navbar-text text-light my-4">
-					{"Copyright © Your Webside 2022"}
-				</p>
-			</div>
-		</nav>
-	);
-};
+// const End = () => {
+// 	return (
+// 		<nav className="navbar navbar-dark bg-dark my-3">
+// 			<div className="container-fluid justify-content-center">
+// 				<p className="navbar-text text-light my-4">
+// 					{"Copyright © Your Webside 2022"}
+// 				</p>
+// 			</div>
+// 		</nav>
+// 	);
+// };
