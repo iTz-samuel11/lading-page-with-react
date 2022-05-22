@@ -1,7 +1,7 @@
 import React from "react";
-import { Cards } from "./Cards.jsx";
-import { End } from "./End.jsx";
-import { Nav } from "./Nav.jsx";
+import { Cards } from "./Cards.js";
+import { End } from "./End.js";
+import { Nav } from "./Nav.js";
 
 //include images into your bundle
 
