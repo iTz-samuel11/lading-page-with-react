@@ -2,7 +2,7 @@ import React from "react";
 
 export const Nav = () => {
 	return (
-		<nav className="navbar navbar-expand-lg navbar-light bg-dark ">
+		<nav className="navbar navbar-expand-lg navbar-dark bg-dark ">
 			<div className="container-fluid">
 				<a
 					className="navbar-brand text-light"
