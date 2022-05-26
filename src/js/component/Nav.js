@@ -9,7 +9,7 @@ export const Nav = () => {
 					href="#"
 					style={{
 						color: "white",
-						marginRight: "58%",
+						marginRight: "",
 						marginLeft: "5%",
 					}}>
 					{"Start Bootstrap"}
@@ -25,7 +25,7 @@ export const Nav = () => {
 					<span className="navbar-toggler-icon"></span>
 				</button>
 				<div
-					className="collapse navbar-collapse float-right"
+					className="collapse navbar-collapse float-right justify-content-end"
 					id="navbarNav">
 					<ul className="navbar-nav">
 						<li className="nav-item">
